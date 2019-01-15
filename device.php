@@ -285,6 +285,14 @@ $hardware_info = array(
         'display' => '5.5 inch, 1920x1080 pixel(401ppi)',
         'cpuarch' => 'ARM'
     ),
+    'Berlin' => array(
+        'cpu' => 'Kirin® Kirin™ hisilcon 655',
+        'ram' => '3GB of LP-DDR3',
+        'rom' => '32GB/64GB',
+        'battery' => '3340 mAh',
+        'display' => '5.5 inch, 1920x1080 pixel(403ppi)',
+        'cpuarch' => 'ARM64'
+    ),
     'cancro' => array(
         'cpu' => 'Qualcomm® Snapdragon™ 801',
         'ram' => '3GB of LP-DDR3',
